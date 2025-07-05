@@ -4,7 +4,6 @@
 :root {
   --header-height: 3.5rem;
 
-  /* 🔥 Stunning shiny pepper red theme */
   --first-color: hsl(0, 100%, 50%);       /* Bright pepper red */
   --first-color-alt: hsl(0, 100%, 40%);   /* Deeper red for hover/active */
   --first-color-dark: hsl(0, 80%, 25%);   /* Dark red for depth/contrast */
@@ -20,7 +19,6 @@
   --shadow-small-img: drop-shadow(0 4px 16px hsla(0, 100%, 30%, 0.2));
   --shadow-big-img: drop-shadow(0 8px 24px hsla(0, 100%, 30%, 0.3));
 /* Font and typography */
-  /* .5rem = 8px | 1rem = 16px ... */
   --body-font: "Montserrat", sans-serif;
   --second-font: "Carter One", system-ui;
   --biggest-font-size: 2.5rem;
